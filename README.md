@@ -9,6 +9,6 @@ Integrate LangSmith for observability
 Implement a fallback mechanism
 Bonus: Use the Agentic library to define a clear multi-step workflow
 
-##Use Case: Travel Planner Agent
+## Use Case: Travel Planner Agent
 ✈️ Agent Goal:
 Plan a trip by finding flight information, estimating trip cost, and recommending tourist attractions. If the tool/API fails, it falls back to a simple language-based response.
