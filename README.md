@@ -1,4 +1,4 @@
-# Build-a-Context-Aware-LLM-Agent-Using-LangChain
+# Context-Aware-LLM-Agent-Using-LangChain
 
 ## Objective
 Design and implement your own LLM-powered agent using the LangChain ecosystem. This agent should:
